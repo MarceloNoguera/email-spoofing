@@ -21,3 +21,7 @@ ________________________________________________________________________________
 Tool created for educational purposes to show the operation 
 of an email spoofing that basically consists of creating email 
 messages with a false sender address.
+_______________________________________________________________________________________________________
+#### Imagenes
+
+![spoof](https://user-images.githubusercontent.com/51070590/89377579-5b716380-d6af-11ea-9ab6-523fbdc2eb10.PNG)
