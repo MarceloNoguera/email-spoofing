@@ -4,10 +4,10 @@
 ![Imagen](https://user-images.githubusercontent.com/51070590/89376817-d9346f80-d6ad-11ea-81b9-8a4b4bfa6420.jpg)
 
 [![Github Release Version](https://img.shields.io/badge/version-1.1-green)](https://img.shields.io/badge/version-1.1-green)
-[![Github Release Version](https://img.shields.io/badge/-HTML-orange)](https://github.com/MarceloNoguera)
-[![Github Release Version](https://img.shields.io/badge/-CSS-9cf)](https://github.com/MarceloNoguera)
-[![Github Release Version](https://img.shields.io/badge/-PHP-informational)](https://github.com/MarceloNoguera)
-[![RTA loves Open source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/MarceloNoguera)
+[![Github Release Version](https://img.shields.io/badge/-HTML-orange)](https://img.shields.io/badge/-HTML-orange)
+[![Github Release Version](https://img.shields.io/badge/-CSS-9cf)](https://img.shields.io/badge/-CSS-9cf)
+[![Github Release Version](https://img.shields.io/badge/-PHP-informational)](https://img.shields.io/badge/-PHP-informational)
+[![RTA loves Open source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 #### Spanish
   
