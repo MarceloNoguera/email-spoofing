@@ -1,0 +1,99 @@
+
+body{
+    background-image: url(fondo3.png);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    text-align: center;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+    font-family: monospace;
+}
+
+p{
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+}
+
+form{
+    width: 600px;
+    margin: auto;
+    background-color: rgba(35,65,81,0.5);
+    padding: 10px 40px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+    margin-top: 7%;
+}
+
+h1{
+    color: rgb(13, 236, 80);
+    text-align: center;
+    margin: 0;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 9px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: 2px;
+    border-color: aliceblue;
+    border-radius: 20px;
+    background-color: #E3E7E8;
+    outline: none;
+    text-align: center;
+    
+}
+
+input:focus{
+    background-color: rgba(35,65,81,0.8);
+   box-shadow: 0 0 20px #09e439;
+    color: white;
+    
+    
+}
+
+textarea:focus{
+    background-color: rgba(35,65,81,0.8);
+   box-shadow: 0 0 20px #08ee4d;
+    color: white;
+    
+    
+}
+
+textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+#btn{
+    background: #12e824;
+    color: rgb(31, 2, 2);
+    padding: 20px;
+    border-radius: 25px;
+}
+
+#btn:hover{
+    cursor: pointer;
+    background: #2F90A8;
+}
+
+@media (max-width: 480px){
+    form{
+        width: 100%;
+    }
+}
+
+
+
+
+

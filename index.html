@@ -1,0 +1,23 @@
+
+<!DOCTYPE HTML>
+<html lang="es">
+    <head>
+        <title>EMAIL SPOOOFING</title>   
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        <form action="metodoDeEnvio.php" method="post">
+            <br><br>
+            <h1>&#9760 Email Spoofing &#9760</h1>         
+                <input type="text" name="nombre" placeholder="&#128369 Nombre a suplantar" required>
+                <input type="text" name="remitente" placeholder="&#128390 Correo a suplantar" required>
+                <input type="text" name="destinatario" placeholder="&#128389 Correo victima" required>
+                <input type="text" name="asunto" placeholder="Asunto" required>
+            <textarea name="mensaje" placeholder="Escribe el mensaje..."></textarea>
+            <input type="submit" id="btn" value="Enviar correo">
+            <p>by Marcelo Noguera</p>
+        </form>
+    </body>
+</html>
